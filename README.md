@@ -3,4 +3,4 @@
 > [!IMPORTANT]
 > N'est pas fait pour une utilisation prod
 > - Variables d'env en dur dans le code
-> - Pas de protection des fichiers
+> - Pas de protection des fichiers (on peut par exemple accéder à http://localhost/sql/seed.sql)
